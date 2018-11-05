@@ -37,6 +37,5 @@ var_dump ($a);
 
 echo "i am great"
 
-echo "oow yeah"
 
 ?>
