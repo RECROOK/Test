@@ -35,4 +35,6 @@ var_dump ($a);
 $a += 5;
 var_dump ($a);
 
+echo "i am a cunt"
+
 ?>
