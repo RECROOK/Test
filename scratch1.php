@@ -36,6 +36,7 @@ $a += 5;
 var_dump ($a);
 
 echo "i am great"
+echo "test"
 
 
 ?>
